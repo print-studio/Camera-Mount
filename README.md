@@ -1,3 +1,3 @@
 # Camera-Mount
-Camera mount designed to screw into the print bed of Taz-sidekick 289
-asdf
+For assembly, 'CameraMount' and 'CameraMountpt2' are designed to fit together 'nano gloop'. Peg is not necessary and not included
+
